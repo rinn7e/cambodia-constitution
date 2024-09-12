@@ -334,6 +334,76 @@
                     "content": "The State shall forbid individuals to import, manufacture\nor sell illicit drugs, counterfeit products, expired goods harmful\nto the consumers’ health and life, and shall severely punish\nthem."
                 }
             ]
+        }, {
+            "id": 6,
+            "title": "ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS",
+            "articles": [
+                {
+                    "id": 65,
+                    "tags": [],
+                    "contents": "The State shall protect and promote the right of the citizen to a quality education at all levels and shall take every measure to progressively make this education available to all the citizens. The State shall put emphasis on the field of physical education and sports for the benefit of all the Khmer citizens’ well-being."
+                },
+                {
+                    "id": 66,
+                    "tags": [],
+                    "contents": "The State shall establish a comprehensive and unified system of education throughout the country, capable of guaranteeing the principles of freedom of education and equal access to schooling, in order to offer each citizen the equal opportunity for the betterment of his/her living conditions."
+                },
+                {
+                    "id": 67,
+                    "tags": [],
+                    "contents": "The State implements a curriculum and modern pedagogic principles including the teaching of technology and foreign languages. The State shall oversee public and private educational establishments and classes at all cycles."
+                },
+                {
+                    "id": 68,
+                    "tags": [],
+                    "contents": "The State shall ensure for all citizens free primary and secondary education at public schools. Citizens shall receive schooling for at least nine years. The State shall help propagate and promote the Pali schools and the Buddhist education."
+                },
+                {
+                    "id": 69,
+                    "tags": [],
+                    "contents": "The State has the obligation to preserve and develop national culture. The State has the obligation to protect and develop the Khmer language according to the needs. The State has the obligation to preserve and protect the ancient monuments, antiques, and to restore the historical sites."
+                },
+                {
+                    "id": 70,
+                    "tags": [],
+                    "contents": "Any offence affecting or relating to cultural heritage and artistic heritage shall be severely punished."
+                },
+                {
+                    "id": 71,
+                    "tags": [],
+                    "contents": "The perimeter of national heritage sites as well as of those classified as world heritage sites shall be considered as neutral zone forbidden to any military activity."
+                },
+                {
+                    "id": 72,
+                    "tags": [],
+                    "contents": "The health of the people shall be guaranteed. The State shall give full consideration to disease prevention and medical cares. Poor people shall receive free medical consultations in public hospitals, infirmaries and maternities. The State shall establish infirmaries and maternities in rural areas."
+                },
+                {
+                    "id": 73,
+                    "tags": [],
+                    "contents": "The State shall give full consideration for children and mothers, by encouraging the creation of nurseries and by attending to women without support who have many children under their cares."
+                },
+                {
+                    "id": 74,
+                    "tags": [],
+                    "contents": "The State shall provide assistance to the disabled persons and to the families of combatants who sacrificed their lives for the nation."
+                },
+                {
+                    "id": 75,
+                    "tags": [],
+                    "contents": "The State shall establish a social security regime for workers and employees."
+                }
+            ]
+        }, {
+            "id": 7,
+            "title": "ON THE NATIONAL ASSEMBLY",
+            "articles": [
+                {
+                    "id": 76,
+                    "tags": ["new"],
+                    "content": "The National Assembly shall comprise at least 120 members. The Members of the National Assembly shall be elected by a universal, free, equal, direct suffrage and secret ballot. The National Assembly’s Members are re-eligible. Khmer citizens of both sexes, enjoying the right to vote, aged at least 25 years and having Khmer nationality by birth, have the right to be candidates to the National Assembly. The modalities and functioning of the elections shall be determined by the electoral law."
+                },
+            ]
         }
     ]
 }
